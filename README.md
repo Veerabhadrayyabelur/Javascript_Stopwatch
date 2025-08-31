@@ -5,6 +5,6 @@ It allows users to **start**, **stop**, and **reset** the timer easily with a cl
 
 
 ## 🌐 Live Demo
-[View on Netlify](purestopwatch.netlify.app) 
+purestopwatch.netlify.app
 
 ---
